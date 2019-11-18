@@ -38,7 +38,7 @@ old_files=(
   "nineanime" "pcyourfreetv" "seemeplay" "servustv" "stream" "streamlive"
   "streamupcom" "tv8cat" "ufctv" "veetle" "viagame" "viasat_embed" "wattv"
   "aftonbladet" "aliez" "antenna" "arconai" "bongacams" "brittv" "cam4"
-  "camsoda" "chaturbate" "expressen" "mips" "seetv" "speedrunslive" "streamboat"
+  "camsoda" "expressen" "mips" "seetv" "speedrunslive" "streamboat"
   "vgtv" "weeb" "oldlivestream" "ok_live" "rte" "tvcatchup" "npo" "ovvatv"
 )
 for i in "${old_files[@]}"
