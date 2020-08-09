@@ -51,3 +51,5 @@ pip-selfcheck.json
 .coverage
 coverage.xml
 htmlcov
+
+.github/
